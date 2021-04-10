@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Spare Part Inventory System
+</name>
+</assembly>
+<members>
+<member name="T:Spare_Part_Inventory_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Spare_Part_Inventory_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Spare_Part_Inventory_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.New_Spare_PartDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Stock_InDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Inventory_listDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Total_priceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.New_Spare_PartRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Stock_InRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Inventory_listRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Total_priceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.New_Spare_PartRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Stock_InRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Inventory_listRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSet.Total_priceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.New_Spare_PartTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.Stock_InTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.Inventory_listTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.Total_priceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Spare_Part_Inventory_System.Db_sparesDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Spare_Part_Inventory_System.Db_sparesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Spare_Part_Inventory_System.Db_sparesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.TableAdapterManager.UpdateAll(Spare_Part_Inventory_System.Db_sparesDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Spare_Part_Inventory_System.Db_sparesDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,12 @@
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\bin\Debug\Spare Part Inventory System.exe.config
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\bin\Debug\Spare Part Inventory System.exe
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\bin\Debug\Spare Part Inventory System.pdb
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\bin\Debug\Spare Part Inventory System.xml
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\obj\Debug\Spare Part Inventory System.vbprojResolveAssemblyReference.cache
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\obj\Debug\Spare_Part_Inventory_System.Resources.resources
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\obj\Debug\Spare Part Inventory System.vbproj.GenerateResource.Cache
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\obj\Debug\Spare Part Inventory System.exe
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\obj\Debug\Spare Part Inventory System.xml
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\obj\Debug\Spare Part Inventory System.pdb
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\obj\Debug\Spare_Part_Inventory_System.Form1.resources
+D:\VB PROJECT\Spare Part Inventory System\Spare Part Inventory System\bin\Debug\Db spares.mdb
